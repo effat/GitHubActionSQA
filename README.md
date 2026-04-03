@@ -43,7 +43,7 @@ We will use GitHub Actions to implement CI, catching issues early and maintainin
 - Create a new public repo. Download all codes and use as template code.
 - Comment Run Validation job in .yml file, update `test_cases.json` for B and C, and push
 -  Take screen shots of example build 
-- Update expected_structure.json, comment out Run Validation job in `.yml` file and push
+- Update requirements.json, comment out Run Validation job in `.yml` file and push
 - Take screen shots of example build
   
 
